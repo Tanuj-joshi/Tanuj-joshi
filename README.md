@@ -1,7 +1,7 @@
 
-# Hi, I'm Tanuj Joshi 👋
+## Hi, I'm Tanuj Joshi 👋
 
-Welcome to my GitHub profile! I'm a passionate AI developer who loves to explore new technologies and create innovative solutions. Here you'll find a collection of my projects, contributions, and experiments. Feel free to browse around and connect with me!
+Welcome to my GitHub profile! I'm a passionate AI developer who loves to explore new technologies and create innovative AI-based automation solutions. Here you'll find a collection of my projects. Feel free to browse around and connect with me!
 
 ## About Me
 - 💻 Artificial Intelligence Developer
